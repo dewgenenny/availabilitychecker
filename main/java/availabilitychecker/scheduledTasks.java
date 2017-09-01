@@ -26,7 +26,7 @@ import static availabilitychecker.availabilityTester.pingURL;
 
 @Configuration
 @Component
-@PropertySource("classpath:scheduledTasks.properties")
+@PropertySource("classpath:availabilitychecker/resources/scheduledTasks.properties")
 
 
 

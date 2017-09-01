@@ -19,8 +19,7 @@ import java.net.URISyntaxException;
 
 
 @Component
-@PropertySource("classpath:publishMQTT.properties")
-
+@PropertySource("classpath:availabilitychecker/resources/publishMQTT.properties")
 
 public class publishMQTT {
 
